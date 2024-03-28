@@ -35,3 +35,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+nextjs-dashboard/.env
+nextjs-dashboard/package-lock.json
